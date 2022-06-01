@@ -1,5 +1,5 @@
-<!--<%@ page language="java" contentType="text/html; charset=UTF=8"
-pageEncoding="UTF-8"%>-->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,37 +12,37 @@ pageEncoding="UTF-8"%>-->
 	<!-- Title Tag  -->
     <title>매직노티 - 매직 더 개더링 카드 가격 알림 서비스</title>
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/png" href="../images/favicon.png">
 	<!-- Web Font -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 	
 	<!-- StyleSheet -->
 	
 	<!-- Bootstrap -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="../css/bootstrap.css">
 	<!-- Magnific Popup -->
-    <link rel="stylesheet" href="css/magnific-popup.min.css">
+    <link rel="stylesheet" href="../css/magnific-popup.min.css">
 	<!-- Font Awesome -->
-    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
 	<!-- Fancybox -->
-	<link rel="stylesheet" href="css/jquery.fancybox.min.css">
+	<link rel="stylesheet" href="../css/jquery.fancybox.min.css">
 	<!-- Themify Icons -->
-    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="../css/themify-icons.css">
 	<!-- Nice Select CSS -->
-    <link rel="stylesheet" href="css/niceselect.css">
+    <link rel="stylesheet" href="../css/niceselect.css">
 	<!-- Animate CSS -->
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="../css/animate.css">
 	<!-- Flex Slider CSS -->
-    <link rel="stylesheet" href="css/flex-slider.min.css">
+    <link rel="stylesheet" href="../css/flex-slider.min.css">
 	<!-- Owl Carousel -->
-    <link rel="stylesheet" href="css/owl-carousel.css">
+    <link rel="stylesheet" href="../css/owl-carousel.css">
 	<!-- Slicknav -->
-    <link rel="stylesheet" href="css/slicknav.min.css">
+    <link rel="stylesheet" href="../css/slicknav.min.css">
 	
 	<!-- Eshop StyleSheet -->
-	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="../css/reset.css">
+	<link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/responsive.css">
 </head>
 <body>
     <body class="js">   
@@ -85,7 +85,7 @@ pageEncoding="UTF-8"%>-->
                         <div class="col-lg-2 col-md-2 col-12">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+                                <a href="../main.jsp"><img src="../images/logo.png" alt="logo"></a>
                             </div>
                             <!--/ End Logo -->
                             <!-- Search Form -->
@@ -159,7 +159,7 @@ pageEncoding="UTF-8"%>-->
                                                 <span>Total</span>
                                                 <span class="total-amount">$134.00</span>
                                             </div>
-                                            <a href="checkout.html" class="btn animate">Checkout</a>
+                                            <a href="../checkout.html" class="btn animate">Checkout</a>
                                         </div>
                                     </div>
                                     <!--/ End Shopping Item -->
@@ -175,6 +175,7 @@ pageEncoding="UTF-8"%>-->
                 <div class="container">
                     <div class="cat-nav-head">
                         <div class="row">
+                            
                             <div class="col-lg-9 col-12">
                                 <div class="menu-area">
                                     <!-- Main Menu -->
@@ -200,7 +201,7 @@ pageEncoding="UTF-8"%>-->
                                                             </ul>
                                                         </li>
                                                         -->
-                                                        <li><a href="contact.html">연락하기</a></li>
+                                                        <li><a href="../contact.html">연락하기</a></li>
                                                     </ul>
                                             </div>
                                         </div>
